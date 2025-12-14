@@ -120,4 +120,4 @@ GitHub: <a href="https://github.com/Wevertonf45">github.com/Wevertonf45</a>
 <hr>
 
 <h2>⭐ Contribua</h2>
-<p>Pull requests são bem-vindos! Se gostou do projeto, deixe uma ⭐ no repositório 😄</p>
+<p>Se gostou do projeto, deixe uma ⭐ no repositório 😄</p>
